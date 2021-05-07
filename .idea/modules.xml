@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/kkboto.iml" filepath="$PROJECT_DIR$/.idea/kkboto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tkitergui/.idea/tkitergui.iml" filepath="$PROJECT_DIR$/../tkitergui/.idea/tkitergui.iml" />
     </modules>
   </component>
 </project>
